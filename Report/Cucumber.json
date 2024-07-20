@@ -1,0 +1,58 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "user Login Into This Application",
+        "description": "",
+        "id": "user-book-a-hotel-by-using-adactin-hotel-application;user-login-into-this-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user Launch The Browser",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user Enter Their Username In Username Field",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user Enter Their Password In Password Field",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "user Click The Login Button And It Navigates to Booking Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "user Book a Hotel By Using Adactin Hotel Application",
+    "description": "",
+    "id": "user-book-a-hotel-by-using-adactin-hotel-application",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/adactin/feature/adactin2.feature"
+  }
+]
